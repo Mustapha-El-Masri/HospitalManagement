@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\BrainSick\.gradle\caches\transforms-1\files-1.1\support-v4-23.1.1.aar\6fe379359e964bd7988742ca4c78c231\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\BrainSick\Desktop\Projet semestrile officiel\projet semstriel backup\HospitalManagementSystem-master\app\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BrainSick\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\BrainSick\Desktop\Projet semestrile officiel\projet semstriel backup\HospitalManagementSystem-master\app\build\intermediates\transforms\preDex\release\4.jar" />
+    </item>
+    <item
+        jar="C:\Users\BrainSick\Desktop\test\HospitalManagementSystem-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\BrainSick\Desktop\test\HospitalManagementSystem-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_17e3325824d170d9ea769e347369594434c57673.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BrainSick\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.1.1.aar\a939504ca2cf3895fae96e41d7256c4b\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\BrainSick\Desktop\Projet semestrile officiel\projet semstriel backup\HospitalManagementSystem-master\app\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+    <item
+        jar="C:\Users\BrainSick\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\BrainSick\Desktop\test\HospitalManagementSystem-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_d224cfe1904bc14aa15e18e488ab807ea7aa91cf.jar" />
+    </item>
+    <item
+        jar="C:\Users\BrainSick\Desktop\test\HospitalManagementSystem-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\BrainSick\Desktop\test\HospitalManagementSystem-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_da5159a0baa0b89e523136be1225bcb7ec24d7db.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\BrainSick\.gradle\caches\transforms-1\files-1.1\support-v4-23.1.1.aar\6fe379359e964bd7988742ca4c78c231\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        min-sdk-version="14"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\BrainSick\Desktop\Projet semestrile officiel\projet semstriel backup\HospitalManagementSystem-master\app\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+    <item
+        jar="C:\Users\BrainSick\Desktop\test\HospitalManagementSystem-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\BrainSick\Desktop\test\HospitalManagementSystem-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_f96c2daefb4a5d2bb83489bfd0019208743797d7.jar" />
+    </item>
+
+</items>
